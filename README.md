@@ -1,33 +1,64 @@
-# Hola, soy Marco 👋
+# Hi, I'm Marco Rico 👋
 
-Software Engineer focused on backend and full stack development.
+Software Engineer focused on Backend and Full Stack development.
+
+I build business applications, REST APIs, and web/mobile solutions using C#, .NET, JavaScript, TypeScript, React, Flutter, and SQL databases.
 
 ## 🛠 Tech Stack
 
-### Backend
-- C#
-- .NET
-- ASP.NET Core
-- Node.js
+**Backend**
 
-### Frontend
-- React
-- TypeScript
-- Flutter
+* C# / .NET / ASP.NET Core
 
-### Database
-- SQL Server
-- MySQL
+* REST APIs
 
-## 🚀 Proyectos
+* JWT Authentication
 
-- Ecommerce platform
-- REST APIs
-- Inventory systems
+* Entity Framework
 
-## 📚 Actualmente aprendiendo
+* Node.js / Express
 
-- System Design
-- Data Structures
-- Algorithms
-- Cloud Architecture
+**Frontend & Mobile**
+
+* React
+* TypeScript
+* JavaScript
+* Flutter / Dart
+* .NET MAUI / XAML
+
+**Databases**
+
+* SQL Server
+* MySQL
+* Stored Procedures
+* Query optimization
+
+**Architecture & Patterns**
+
+* MVC
+* MVVM
+* Clean Code principles
+* Object-Oriented Programming
+* Design Patterns
+
+**Tools**
+
+* Git / GitLab / GitHub
+* Postman
+* Swagger
+* Nginx
+* Linux
+
+## 🚀 Experience & Projects
+
+* REST APIs for business applications
+* Inventory and warehouse management systems
+* Ecommerce platforms
+* Integrations between applications and external services
+
+## 📚 Currently learning
+
+* Data Structures & Algorithms
+* System Design
+* Software Architecture
+* Scalable backend systems
