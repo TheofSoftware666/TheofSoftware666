@@ -14,8 +14,6 @@ I build business applications, REST APIs, and web/mobile solutions using C#, .NE
 
 * JWT Authentication
 
-* Entity Framework
-
 * Node.js / Express
 
 **Frontend & Mobile**
@@ -37,13 +35,11 @@ I build business applications, REST APIs, and web/mobile solutions using C#, .NE
 
 * MVC
 * MVVM
-* Clean Code principles
 * Object-Oriented Programming
-* Design Patterns
 
 **Tools**
 
-* Git / GitLab / GitHub
+* Git / GitLab 
 * Postman
 * Swagger
 * Nginx
@@ -59,6 +55,5 @@ I build business applications, REST APIs, and web/mobile solutions using C#, .NE
 ## 📚 Currently learning
 
 * Data Structures & Algorithms
-* System Design
 * Software Architecture
 * Scalable backend systems
