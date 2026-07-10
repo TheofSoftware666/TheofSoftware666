@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Marco 👋
 
-<!--
-**TheofSoftware666/TheofSoftware666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend and full stack development.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- C#
+- .NET
+- ASP.NET Core
+- Node.js
+
+### Frontend
+- React
+- TypeScript
+- Flutter
+
+### Database
+- SQL Server
+- MySQL
+
+## 🚀 Proyectos
+
+- Ecommerce platform
+- REST APIs
+- Inventory systems
+
+## 📚 Actualmente aprendiendo
+
+- System Design
+- Data Structures
+- Algorithms
+- Cloud Architecture
